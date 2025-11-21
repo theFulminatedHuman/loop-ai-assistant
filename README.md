@@ -81,6 +81,3 @@ loop-ai-assistant/
 4. **Response Generation**: Context-aware responses with conversation memory
 5. **Voice Output**: Text-to-Speech reads the response aloud
 
-## License
-
-MIT
